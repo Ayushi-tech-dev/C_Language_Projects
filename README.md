@@ -10,8 +10,8 @@ C_Language_Projects/
 │── User_Management_System/
 │   ├── user_management.c
 │   ├── README.md
-│── Other_Project/
-│   ├── other_project.c
+│── Digital_Clock/
+│   ├── digital_clock.c
 │   ├── README.md
 └── ...
 ```
@@ -33,6 +33,7 @@ Run the compiled program using:
 
 ## 📌 Projects Included
 - **User Management System**: A simple CLI-based user registration and login system.
+- **Digital Clock**: A C program that displays the current time in 24-hour or 12-hour format.
 - **More projects coming soon...**
 
 ## 📜 License
