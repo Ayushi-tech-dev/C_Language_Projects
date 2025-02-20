@@ -15,7 +15,7 @@ This is a simple C-based user management system that allows users to register an
 ## Installation & Compilation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/user-management-system.git
+   git clone https://github.com/Tech-By=Ayushi/user-management-system.git
    ```
 2. Navigate to the project directory:
    ```sh
