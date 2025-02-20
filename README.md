@@ -13,6 +13,9 @@ C_Language_Projects/
 │── Digital_Clock/
 │   ├── digital_clock.c
 │   ├── README.md
+└── Quiz/
+│   ├── quiz.c
+│   ├── README.md
 └── ...
 ```
 
