@@ -16,6 +16,9 @@ C_Language_Projects/
 └── Quiz/
 │   ├── quiz.c
 │   ├── README.md
+└──  Banking_Management_Stayem/
+│   ├── banking_management_syatem.c
+│   ├── README.md
 └── ...
 ```
 
