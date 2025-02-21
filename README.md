@@ -16,10 +16,12 @@ C_Language_Projects/
 └── Quiz/
 │   ├── quiz.c
 │   ├── README.md
-└──  Banking_Management_Stayem/
-│   ├── banking_management_syatem.c
+└──  Banking_Management_System/
+│   ├── banking_management_system.c
 │   ├── README.md
-└── ...
+└──  Guess_Number/
+│   ├── guessnumber.c
+│   ├── README.md
 ```
 
 ## 🛠 Prerequisites
