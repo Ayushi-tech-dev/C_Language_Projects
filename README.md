@@ -55,7 +55,7 @@ Run the compiled program using:
 
 ### 🔢 Number Guessing Game
 - A simple game where the user has 5 chances to guess a randomly generated number.
-- **[View Project](./Guess_Number/README.md)**
+- **[View Project](./Guess_number/README.md)**
 
 ### ⏰ Digital Clock
 - A real-time digital clock displaying time in a 24-hour format.
