@@ -71,13 +71,6 @@ Run the compiled program using:
 
 ---
 
-## 🌟 Featured Projects
-[![Guess Number](https://github-readme-stats.vercel.app/api/pin/?username=Tech-By-Ayushi&repo=Guess_Number&theme=radical)](https://github.com/Tech-By-Ayushi/Guess_Number)
-
-[![Banking Management System](https://github-readme-stats.vercel.app/api/pin/?username=Tech-By-Ayushi&repo=Banking_Management_System&theme=radical)](https://github.com/Tech-By-Ayushi/Banking_Management_System)
-
----
-
 ## 🚀 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
